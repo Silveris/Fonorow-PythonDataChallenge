@@ -1,2 +1,0 @@
-# Voter ID,County,Candidate
-

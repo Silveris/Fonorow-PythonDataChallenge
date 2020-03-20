@@ -14,6 +14,8 @@ def getData(csv):
     minmonth = ""
     lastmonth = None
     changes = []
+
+    # loop through the csv data sheet
     for row in csv:
         currentMonth = row[0]
         currentPnl = int(row[1])
